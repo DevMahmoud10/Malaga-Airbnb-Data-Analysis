@@ -4,7 +4,7 @@
 
 - [Motivation](#motivation)
 - [Files](#files)
-- [Results](#results)
+- [Insights](#insights)
 - [Requirements](#requirements)
 - [Links](#links)
 - [Author](#author)
@@ -23,35 +23,29 @@ In this project, I followed the CRISP-DM process to analyze Málaga Airbnb homes
 These directories holds the files that used inn this project:
 
 - Data:   
-Contains downloaded files from the [insideairbnb](insideairbnb.com) datasource.
+Contains downloaded files from the [insideairbnb](insideairbnb.com) datasource for Malaga, Spain in Feb 2020
 - ```Airbnb_Malaga_Analytics.ipynb```   
 This files have the insights, process steps and answers for this project goal.
 
 - ```requirements.txt```   
-Have the used libraries in this project.
+Contains the used libraries in this project.
 
-## Results <a name="results"></a>
+## Insights <a name="insights"></a>
 
 The main findings are:
-- December, March, and October are the busiest months of the year, while January, February and July are the least.
-- prices increase in summer season and decrease in winter season. 
-- Magnolia, Queen Anne, Downtown, and Cascade are more expensive.
-- Delridge, Northgate, Rainier Valley, and Lake City are  cheaper
-- Capitol Hill, Downtown, and Central Area are more crowded.
-- Interbay, Seward Park, Magnolia, and Lake City are less crowded.
-- The number of bedrooms and bathrooms, the weekly cost of the listing, and the cost of cleaning service are the most important factor in determine listings price.
-
-Non-technical details with deep analysis of the project can be found on the article: [Are accommodation expensive in Seattle?](https://medium.com/@manar.alharbi.94/are-accommodation-expensive-in-seattle-3406a38e84e2)
+- March is the perfect month of the year to visit malaga because it's cheap and less crowded.
+- Prices increase in Winter season, mostly in December, January and February.
+- Prices decrease in Spring season mostly in March, April and May.
+- The expensive neighbourhoods has a medium crowding (not extreme crowded or of the most less neighbourhoods)
+- Ciudad Jardin and Cruz De Humilladero are the cheapest but they are crowded so you have to sacrifice by adapting with crowding if you want to save some money.
+- The property_type, number of how many this host visited, and number of host available days are the most important factors in determine listings price.
 
 ## Requirements <a name="requirements"></a>
-
-- Machine Learning Libraries: Pandas, NumPy, Scikit-learn
-- Python 2D plotting library: Matplotlib
-
+You can find all required libraries that used in this project in ```requirements.txt``` .
 
 ## Links <a name="links"></a>
 
-The below sites, were very useful for completing the projects,
+The below sites, were very useful the projects:
 - [Medium Article](https://www.medium.com)
 
 ## Author
