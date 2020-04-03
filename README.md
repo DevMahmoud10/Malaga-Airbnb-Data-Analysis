@@ -52,3 +52,4 @@ The below sites were very useful for the projects:
 ## Author
 Mahmoud Ahmed
 - [Github](https://devmahmoud10.github.io/portfolio/)
+- [Linkedin](https://www.linkedin.com/in/devmahmoud10/)
